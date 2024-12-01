@@ -11,6 +11,9 @@ An exploration of unique subjects reveals that Udemy offers courses in Musical I
 # Pricing Analysis
 The analysis segregates courses based on their pricing, distinguishing between free and paid offerings. Further investigation reveals 3372 paid courses and a list of free courses provided by Udemy.
 
+![newplot](https://github.com/user-attachments/assets/944f7107-f243-4d57-bfb6-3171d2fa0d8e)
+
+
 # Best and Least Selling Courses
 Courses with the highest and lowest subscriber counts are unveiled, showcasing the top-selling and least-selling courses on the platform.
 
