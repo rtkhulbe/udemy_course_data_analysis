@@ -29,8 +29,3 @@ Courses published in 2015 are identified, with 1014 courses falling within this 
 # Maximum Subscribers by Course Level
 The analysis categorizes courses based on difficulty levels—All Levels, Intermediate Level, Beginner Level, and Expert Level—revealing the maximum number of subscribers for each category.
 
-
-
-
-
-![subject_bar_chart_animation](https://github.com/user-attachments/assets/f2fb943d-e4b9-4770-863e-f79f745246b0)
